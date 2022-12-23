@@ -1,0 +1,20 @@
+From bbe9c8dfe4bb8c374cbaef1bb867f4a99fe8575c Mon Sep 17 00:00:00 2001
+From: Arti61249 <artipalave1205@gmail.com>
+Date: Fri, 23 Dec 2022 12:14:32 +0530
+Subject: [PATCH] one newb
+
+---
+ a.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/a.txt b/a.txt
+index 7b1f7bf..19b7145 100644
+--- a/a.txt
++++ b/a.txt
+@@ -1 +1,2 @@
+-file created by shubham
++changes commited from new branch
++
+-- 
+2.36.1.windows.1
+
