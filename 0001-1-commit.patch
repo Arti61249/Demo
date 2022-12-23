@@ -1,0 +1,39 @@
+From 82b58eb41846153e38c35d2c6602d9b29c8c59ab Mon Sep 17 00:00:00 2001
+From: Arti61249 <artipalave1205@gmail.com>
+Date: Fri, 23 Dec 2022 12:40:41 +0530
+Subject: [PATCH] 1 commit
+
+---
+ patch/0001-one-newb.patch | 20 ++++++++++++++++++++
+ 1 file changed, 20 insertions(+)
+ create mode 100644 patch/0001-one-newb.patch
+
+diff --git a/patch/0001-one-newb.patch b/patch/0001-one-newb.patch
+new file mode 100644
+index 0000000..7c0b46a
+--- /dev/null
++++ b/patch/0001-one-newb.patch
+@@ -0,0 +1,20 @@
++From bbe9c8dfe4bb8c374cbaef1bb867f4a99fe8575c Mon Sep 17 00:00:00 2001
++From: Arti61249 <artipalave1205@gmail.com>
++Date: Fri, 23 Dec 2022 12:14:32 +0530
++Subject: [PATCH] one newb
++
++---
++ a.txt | 3 ++-
++ 1 file changed, 2 insertions(+), 1 deletion(-)
++
++diff --git a/a.txt b/a.txt
++index 7b1f7bf..19b7145 100644
++--- a/a.txt
+++++ b/a.txt
++@@ -1 +1,2 @@
++-file created by shubham
+++changes commited from new branch
+++
++-- 
++2.36.1.windows.1
++
+-- 
+2.36.1.windows.1
+
